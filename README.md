@@ -1,7 +1,7 @@
 # Hugo Santos
 I'm Hugo from Portugal, and currently I'm Director of Software Engineering. I really enjoy learning about Technology, Software Architecture, Engineering Management, Leadership and Agile practices.
 
-📚 I'm currently reading The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win | by Gene Kim, Kevin Behr, George Spafford  
+📚 I'm currently reading "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, George Spafford  
 📫 How to reach me: hugomiguel@gmail.com
 
 <!--
