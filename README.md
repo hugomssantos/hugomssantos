@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hugo Santos
+
+📫 How to reach me: hugomiguel@gmail.com
 
 <!--
 **hugomssantos/hugomssantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
