@@ -1,5 +1,5 @@
 # Hugo Santos
-I'm Hugo from Portugal, and currently I'm Director of Software Engineering. I really enjoy learning about Agile, Engineering Management, Leadership, Technology and Software Architecture.
+I'm Hugo from Portugal, and currently I'm Director of Software Engineering. I really enjoy learning about Technology, Software Architecture, Engineering Management, Leadership and Agile practices.
 
 📫 How to reach me: hugomiguel@gmail.com
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Agile, Engineering Management
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomssantos)](https://github.com/anuraghazra/github-readme-stats)
