@@ -1,4 +1,5 @@
-### Hugo Santos
+# Hugo Santos
+I'm Hugo from Portugal, and currently I'm Director of Software Engineering. I really enjoy learning about Agile, Engineering Management, Leadership, Technology and Software Architecture.
 
 📫 How to reach me: hugomiguel@gmail.com
 
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Agile, Engineering Management
