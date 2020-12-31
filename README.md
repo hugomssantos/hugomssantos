@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Agile, Engineering Management
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hugomssantos)](https://github.com/ryo-ma/github-profile-trophy)
